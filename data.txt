@@ -1,0 +1,26 @@
+MISTO 1
+
+|  hodiny  |  prumer  | smerodatna odchylka
+|  18-20   |  14      | 9
+|  20-22   |  15      | 8
+|  22-24   |  12      | 4
+|  00-02   |  19      | 17
+|  02-04   |  12      | 4
+|  04-06   |  3       | 1
+
+
+MISTO 2
+
+|  hodiny  |  prumer  | smerodatna odchylka
+|  18-20   |  3       | 22
+|  20-22   |  7       | 17
+|  22-24   |  13      | 7
+|  00-02   |  21      | 7
+|  02-04   |  26      | 14
+|  04-06   |  1       | 1
+
+Prumerna rychlost vozidla je 80 km/h s odchylkou 40 km/h
+
+Prumerna vzdalenost jizdy taxi vcetne jizdy z5 je 40 km s odchylkou 75 km
+
+Pocet taxi 15
